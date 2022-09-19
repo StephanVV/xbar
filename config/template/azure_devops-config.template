@@ -12,7 +12,7 @@ projects = ["a project"]
 pull_request_status = active
 user_email = my@email.com
 ;Fill out of your team sets a group as default reviewers on PRs, then PRs that have this group as reviewer will also match
-team_name = Awesome Team
+team_names = ["Awesome Team"]
 
 # 'name' or 'activity'
 sort_on = activity
