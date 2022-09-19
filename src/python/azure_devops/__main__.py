@@ -8,7 +8,7 @@ print_xbar_pull_request_menu(
         AzureDevOpsConfig.PROJECTS,
         AzureDevOpsConfig.PULL_REQUEST_STATUS,
         AzureDevOpsConfig.USER_EMAIL,
-        AzureDevOpsConfig.TEAM_NAME
+        AzureDevOpsConfig.TEAM_NAMES
     ),
     AzureDevOpsIcons.PR_STATUSES,
     AzureDevOpsConfig.SORT_ON,
